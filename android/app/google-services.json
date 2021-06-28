@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737721012667",
+    "project_id": "cancer-spy",
+    "storage_bucket": "cancer-spy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737721012667:android:a47f3d7a60cf6fb3d3f49e",
+        "android_client_info": {
+          "package_name": "com.app.cancer_spy.cancer_spy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737721012667-6aco7lkifddgo66ljose98f2q6q2nco6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdVGeZC8jvbHMY2q8iHx3uhXV9xMiiPhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737721012667-6aco7lkifddgo66ljose98f2q6q2nco6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
