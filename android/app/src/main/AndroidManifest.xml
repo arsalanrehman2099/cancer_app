@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.app.cancer_spy.cancer_spy">
    <application
-        android:label="cancer_spy"
+        android:label="Cancer Spy"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
